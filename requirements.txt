@@ -1,0 +1,5 @@
+# Testing & Development
+pytest>=8.0.0
+
+# Optional: Reference cryptography library for differential testing
+cryptography>=42.0.0
